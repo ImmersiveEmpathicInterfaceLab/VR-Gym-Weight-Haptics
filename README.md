@@ -3,6 +3,7 @@ VR Gym application with Unity integrating bHaptics Haptic Gloves to simulate the
 
 ## Contributors:
 * Nicholas Wile
+* Reid Autry
 
 <!--
 * Antonio Brewer
